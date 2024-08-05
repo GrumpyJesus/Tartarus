@@ -79,8 +79,7 @@ const default_config = {
             url: "https://monkeytype.com/",
             icon: "keyboard",
             icon_color: "#e78a4e",
-            openInNewTab: true,
-          },
+            openInNewTab: true          },
           {
             name: "tetris",
             url: "https://tetris.com/",
